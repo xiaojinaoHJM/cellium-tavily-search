@@ -1,0 +1,19 @@
+{
+  "slug": "tavily-search",
+  "name": "Tavily AI 搜索",
+  "summary": "专为 AI 设计的 Tavily 搜索：AI 增强搜索、新闻搜索、网页正文提取与站点爬取，内置 Token 安全截断，Key 完全由用户自行配置。",
+  "category": "ai",
+  "tags": ["搜索", "tavily", "联网", "news", "crawl"],
+  "author": "xiaojinaoHJM",
+  "repo": "https://github.com/xiaojinaoHJM/cellium-tavily-search",
+  "license": "MIT",
+  "cover": "",
+  "versions": [
+    {
+      "version": "1.0.0",
+      "date": "2026-11-16",
+      "changelog": "首个公开版本：search / search_news / extract / crawl / config / help，无内置任何 API Key",
+      "download": "https://github.com/xiaojinaoHJM/cellium-tavily-search/releases/download/v1.0.0/tavily_search-1.0.0.zip"
+    }
+  ]
+}
